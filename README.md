@@ -1,4 +1,3 @@
 # Animation_Tribute_Page.github-io
-This is a Culculator.
-Create using Html , CSS and JavaScript.
+This Project is Animated Tribute Page.
 Site Demo :- https://chaniyara.github.io/oibsip_taskno_2.github-io/
